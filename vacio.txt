@@ -24,6 +24,7 @@ git config --global user.name"usuario" /. sirve para cambiar usuarios globlales
 git config --global user.email"email" /. sirve para cambiar email globlales
 NT. -Un guion es para una letra, sirve para comandos rapidos. --, es para decir que uso palabras
 Nt. git add /. Es para guardar cambios. NO git commit 
+Nt. con git Commit los vuelvo a mandar
 git add.   Es para guardar todos los cambios de los archivos. Y creo que tambien agrega todos
 
 
