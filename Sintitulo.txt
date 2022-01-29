@@ -1,5 +1,5 @@
-Este es una archivo de pruebas el cual
-puebe que este mal escrito
-en muchos palarbas
+Este es una archivo de pruebas el cual,
+puede que este mal escrito,
+en muchos palabras. Espero que funcione
 
 
