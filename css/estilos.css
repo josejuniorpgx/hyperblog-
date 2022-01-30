@@ -1,7 +1,7 @@
 body {
     text-align: left;
     font-family: "Arial";
-    color: red;
+    color: blue;
 }
 
 #container
@@ -9,6 +9,9 @@ body {
  width: 100%;
     padding: 1em;
     text-align: left;
+}
+#container1 {
+    background-color: red;
 }
 
 #container h1
